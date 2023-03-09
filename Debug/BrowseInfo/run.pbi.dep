@@ -1,0 +1,24 @@
+D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\Debug\BrowseInfo\run.pbi: \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\stopWatch.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\time.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\calculator.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\dio.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\lcd.h \
+  D:\IAR\arm\inc\c\stdarg.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\utils\uartstdio.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\uart.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\timer.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\pin_map.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\inc\hw_ints.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\interrupt.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\systick.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\inc\hw_memmap.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\gpio.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\driverlib\sysctl.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\inc\hw_types.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\tivaware\inc\tm4c123gh6pm.h \
+  D:\IAR\arm\inc\c\stdbool.h D:\IAR\arm\inc\c\DLib_Product.h \
+  D:\IAR\arm\inc\c\DLib_Config_Normal.h D:\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\IAR\arm\inc\c\yvals.h D:\IAR\arm\inc\c\ycheck.h \
+  D:\IAR\arm\inc\c\stdint.h \
+  D:\Semester\ fall\ 2022\Embedded\Lab\ tasks\Project\ 5\run.c
